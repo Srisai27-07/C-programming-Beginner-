@@ -1,7 +1,3 @@
-//ASSIGNMENT 4: STUDENT MARKSHEET
-//NAME: Srisai Sriniwas Atipamulu
-//PRN: 125B1B186
-
 #include <stdio.h>
 
 int main() 
