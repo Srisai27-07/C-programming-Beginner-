@@ -1,6 +1,4 @@
-//ASSIGNMENT 3B: GCD OF GIVEN NUMBERS
-//NAME: SRISAI SRINIWAWS ATIPAMULU
-//PRN: 125B1B186
+//GCD Normal method.
 
 /*#include<stdio.h>
 int main()
@@ -19,7 +17,9 @@ int main()
     printf("The GCD of the given two numbers is: %d", gcd);
     return 0;
 }*/
+
 // GCD OF GIVEN NUMBERS (RECURSIVE)
+
 #include <stdio.h>
 int gcd(int a, int b)
 {
