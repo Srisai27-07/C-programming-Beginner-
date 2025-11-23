@@ -1,7 +1,3 @@
-//ASSIGNMENT 2A:Fibonacci Series.
-//NAME: Srisai Sriniwas Atipamulu
-//PRN: 125B1B186
-
 #include<stdio.h>
 int main()
 {
