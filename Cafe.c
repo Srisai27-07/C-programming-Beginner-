@@ -1,6 +1,3 @@
-//ASSIGNMENT 1C: Cafe Menu                                            PRN: 125B1B186
-//NAME: Srisai S Atipamulu      
-
 #include<stdio.h>
 int main()
 {
