@@ -1,5 +1,3 @@
-//ASSIGNMENT 1B: TICKET BOOKER                      PRN: 125B1B186
-//NAME: Srisai S Atipamulu
 #include<stdio.h>
 int main()
 {
