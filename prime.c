@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 
 int main() {
@@ -32,5 +33,34 @@ int main() {
             printf("%d is not a prime number.\n", num);
     }
 
+    return 0;
+}
+*/
+
+#include<stdio.h>
+int main()
+{
+    int num,i,j,isprime;
+    printf("Enter the numbers till where you want prime numbers: ");
+    scanf("%d",&num);
+    printf("The prime numbers are: ");
+    for(i = 2; i <= num;i++)
+    {
+        isprime = 1;
+        for(j = 2; j <= i/2;j++)
+        {
+            if (i % j == 0)
+            {
+             isprime = 0;
+             break;
+            }
+            
+        }
+        if (isprime == 1)
+        {
+            printf("%d\n", i );
+            
+        }
+    }
     return 0;
 }
